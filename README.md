@@ -22,4 +22,5 @@ npm run dev
 yarn dev
 ```
 
-Rodando na porta [http://localhost:3000](http://localhost:3000).
+Após usar o comando para rodar o projeto, ele estará sendo exibido na porta [http://localhost:3000](http://localhost:3000).
+
